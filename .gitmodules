@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "wrGraph"]
 	path = wrGraph
 	url = https://github.com/cran/wrGraph
-	shallow = true
-	registered = true
 [submodule "wrMisc"]
 	path = wrMisc
 	url = https://github.com/cran/wrMisc
-	shallow = true
-	registered = true
 [submodule "wrProteo"]
 	path = wrProteo
 	url = https://github.com/cran/wrProteo
-	shallow = true
-	registered = true
 [submodule "wrTopDownFrag"]
 	path = wrTopDownFrag
 	url = https://github.com/cran/wrTopDownFrag
-	shallow = true
-	registered = true
